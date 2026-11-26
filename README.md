@@ -11,7 +11,7 @@ The project constructs an interface in Python using Tkinter designed to represen
 - Detection history and reset controls
 
 **Setup**
-Run from project directory/terminal with python main.py
+- Run from project directory/terminal with python main.py
 
 **Limitations**
-Simulation and headphone responses are purely simulated. No machine learning is actually occurring.
+- Simulation and headphone responses are purely simulated. No machine learning is actually occurring.
